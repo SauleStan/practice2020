@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.UsersWindowController">
+   <center>
+      <HBox prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <children>
+            <VBox prefHeight="200.0" prefWidth="400.0">
+               <children>
+                  <TableView fx:id="tableView" onMousePressed="#onMouseClicked">
+                    <columns>
+                      <TableColumn fx:id="usersColumn" prefWidth="116.0" text="Top users" />
+                      <TableColumn fx:id="ordersColumn" prefWidth="53.0" text="Orders" />
+                        <TableColumn fx:id="moneySpentColumn" prefWidth="91.0" text="Money spent" />
+                        <TableColumn fx:id="discountColumn" prefWidth="56.0" text="Discount" />
+                        <TableColumn fx:id="freeShippingColumn" prefWidth="83.0" text="freeShipping" />
+                    </columns>
+                  </TableView>
+               </children>
+            </VBox>
+            <VBox alignment="TOP_CENTER" prefHeight="200.0" prefWidth="200.0">
+               <children>
+                  <VBox alignment="CENTER" prefHeight="100.0" prefWidth="100.0">
+                     <children>
+                        <Label fx:id="usernameLabel" text="Username">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                           <VBox.margin>
+                              <Insets />
+                           </VBox.margin>
+                        </Label>
+                     </children>
+                  </VBox>
+                  <VBox alignment="BOTTOM_LEFT" prefHeight="150.0" prefWidth="100.0">
+                     <children>
+                        <CheckBox fx:id="freeShippingCheckBox" mnemonicParsing="false" text="Free Shipping">
+                           <VBox.margin>
+                              <Insets bottom="10.0" left="5.0" right="5.0" top="5.0" />
+                           </VBox.margin>
+                        </CheckBox>
+                        <CheckBox fx:id="discountCheckBox" mnemonicParsing="false" onAction="#onDiscountCheckBoxChecked" text="Discount">
+                           <VBox.margin>
+                              <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                           </VBox.margin>
+                        </CheckBox>
+                        <TextField fx:id="discountTextField" promptText="Specify discount amount">
+                           <VBox.margin>
+                              <Insets bottom="20.0" left="5.0" right="5.0" top="5.0" />
+                           </VBox.margin>
+                        </TextField>
+                     </children>
+                  </VBox>
+                  <VBox alignment="CENTER" prefHeight="100.0">
+                     <children>
+                        <Button mnemonicParsing="false" onAction="#onApplyButtonPressed" text="Apply">
+                           <font>
+                              <Font size="23.0" />
+                           </font>
+                        </Button>
+                     </children>
+                  </VBox>
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+   </center>
+   <top>
+      <HBox alignment="TOP_RIGHT" minHeight="50.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button fx:id="itemsButton" mnemonicParsing="false" onAction="#onItemsButtonPressed" text="Items">
+               <HBox.margin>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </HBox.margin>
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Button>
+         </children>
+      </HBox>
+   </top>
+</BorderPane>

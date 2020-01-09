@@ -1,0 +1,35 @@
+CREATE TABLE clients(
+username TEXT NOT NULL UNIQUE,
+password TEXT NOT NULL,
+email TEXT,
+address TEXT,
+orders INT,
+spentMoney DOUBLE,
+discount DOUBLE,
+freeShipping INT,
+PRIMARY KEY(username)
+);
+
+INSERT INTO clients(username, password, orders, spentMoney, discount, freeShipping) VALUES ('user', 'user', 0, 0.0, 0.0, 0);
+
+
+CREATE TABLE items(
+name TEXT NOT NULL UNIQUE,
+description TEXT,
+price DOUBLE NOT NULL,
+img TEXT,
+stock INT,
+PRIMARY KEY(name)
+);
+
+INSERT INTO items (name, description, price, img, stock) VALUES('Apple', 'Local fresh apples', 0.50, 'file:///C:/Users/Saule/Desktop/P20/Database/images/apple.png', 15);
+INSERT INTO items (name, description, price, img, stock) VALUES('Pear', 'Local fresh pears', 0.60, 'file:///C:/Users/Saule/Desktop/P20/Database/images/pear.png', 20);
+INSERT INTO items (name, description, price, img, stock) VALUES('Pineapple', 'Fancy pineapples', 1.20, 'file:///C:/Users/Saule/Desktop/P20/Database/images/pineapple.png', 30);
+INSERT INTO items (name, description, price, img, stock) VALUES('Peach', 'Infamous peaches', 1.00, 'file:///C:/Users/Saule/Desktop/P20/Database/images/peach.png', 45);
+INSERT INTO items (name, description, price, img, stock) VALUES('Watermelon', 'Very juicy', 1.10, 'file:///C:/Users/Saule/Desktop/P20/Database/images/watermelon.png', 15);
+INSERT INTO items (name, description, price, img, stock) VALUES('Melon', 'Lacks water in the name but is juicy too', 1.00, 'file:///C:/Users/Saule/Desktop/P20/Database/images/melon.png', 10);
+INSERT INTO items (name, description, price, img, stock) VALUES('Grape', 'Green seedless grapes', 0.80, 'file:///C:/Users/Saule/Desktop/P20/Database/images/grape.png', 23);
+INSERT INTO items (name, description, price, img, stock) VALUES('Strawberry', 'Local fresh strawberries', 0.20, 'file:///C:/Users/Saule/Desktop/P20/Database/images/strawberry.png', 22);
+INSERT INTO items (name, description, price, img, stock) VALUES('Blueberry', 'Local fresh blueberries', 0.50, 'file:///C:/Users/Saule/Desktop/P20/Database/images/blueberries.png', 7);
+INSERT INTO items (name, description, price, img, stock) VALUES('Raspberry', 'Local fresh raspberries', 0.60, 'file:///C:/Users/Saule/Desktop/P20/Database/images/raspberry-pi.png', 13);
+INSERT INTO items (name, description, price, img, stock) VALUES('Gooseberry', 'Local fresh gooseberries', 0.70, 'file:///C:/Users/Saule/Desktop/P20/Database/images/gooseberry.png', 31);

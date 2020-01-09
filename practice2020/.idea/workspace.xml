@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="updates">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/META-INF/practice_2020.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/images/apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/images/blueberries.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/images/diet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/images/gooseberry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/images/grape.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/images/melon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/images/peach.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/images/pear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/images/pineapple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/images/raspberry-pi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/images/strawberry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/images/watermelon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/sample/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice_2020/sample/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/sample/ClientDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice_2020/sample/ClientDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/sample/ClientDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice_2020/sample/ClientDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/sample/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice_2020/sample/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/sample/ItemDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice_2020/sample/ItemDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/sample/MainWindowController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice_2020/sample/MainWindowController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/sample/OrderBasket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice_2020/sample/OrderBasket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/sample/ShoppingCartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice_2020/sample/ShoppingCartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/sample/mainWindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice_2020/sample/mainWindow.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice_2020/sample/shoppingCart.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice_2020/sample/shoppingCart.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopdatabase.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sqlite3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/blueberries.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/diet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/gooseberry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/grape.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/melon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/peach.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/pear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/pineapple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/raspberry-pi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/strawberry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/watermelon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/ClientDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/ClientDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/ClientDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/ClientDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/ItemDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/ItemDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/ItemDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/ItemDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/MainWindowController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/MainWindowController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/OrderBasket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/OrderBasket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/ShoppingCartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/ShoppingCartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/mainWindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/mainWindow.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/shoppingCart.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/shoppingCart.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectId" id="1Vw14eC1USyTuH8yZI3YOOoNQa5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="D:/SQLite/SQLite JDBC Driver/sqlite-jdbc-3.27.2.1.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="practice_2020" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+    </task>
+    <task id="LOCAL-00001" summary="updates">
+      <created>1578428151799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578428151799</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1302000" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <MESSAGE value="adding the project" />
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1578571313386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="393" y="47" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1578475788003" />
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1578571313386" />
+    <state x="1178" y="194" key="#com.intellij.ide.util.MemberChooser" timestamp="1578609962220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="98" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578478433924" />
+    <state x="1178" y="194" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578609962220" />
+    <state x="613" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578421845804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="613" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578421845804" />
+    <state x="772" y="136" key="CommitChangelistDialog2" timestamp="1578428151143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="772" y="136" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578428151143" />
+    <state x="666" y="262" key="FileChooserDialogImpl" timestamp="1578571311258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="474" y="183" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578483660463" />
+    <state x="666" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578571311258" />
+    <state width="1372" height="171" key="GridCell.Tab.0.bottom" timestamp="1578610716082">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578498107393" />
+    <state width="1372" height="171" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578610716082" />
+    <state width="1372" height="171" key="GridCell.Tab.0.center" timestamp="1578610716082">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578498107392" />
+    <state width="1372" height="171" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578610716082" />
+    <state width="1372" height="171" key="GridCell.Tab.0.left" timestamp="1578610716082">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578498107392" />
+    <state width="1372" height="171" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578610716082" />
+    <state width="1372" height="171" key="GridCell.Tab.0.right" timestamp="1578610716082">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578498107393" />
+    <state width="1372" height="171" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578610716082" />
+    <state width="1286" height="204" key="GridCell.Tab.1.bottom" timestamp="1578498107393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578498107393" />
+    <state width="1286" height="204" key="GridCell.Tab.1.center" timestamp="1578498107393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1578498107393" />
+    <state width="1286" height="204" key="GridCell.Tab.1.left" timestamp="1578498107393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1578498107393" />
+    <state width="1286" height="204" key="GridCell.Tab.1.right" timestamp="1578498107393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1578498107393" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1578611593464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="467" y="242" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578494834185" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578611593464" />
+    <state x="897" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578428261696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="897" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578428261696" />
+    <state x="74" y="105" key="new project wizard" timestamp="1578483761741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="74" y="105" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1578483761741" />
+    <state x="751" y="260" width="672" height="678" key="search.everywhere.popup" timestamp="1578393686367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="751" y="260" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578393686367" />
+  </component>
+</project>
