@@ -8,6 +8,9 @@
     User can add items to shopping cart.
     User can remove items from shopping cart.
     User can update item quantity in shopping cart.
+ 
+<img src="/img/user_catalog.png" alt="admin-side view" width="350"/>
+<img src="/img/user_cart.png" alt="admin-side view" width="350"/>
 
 2. Admin app
     Admin can manage items in database.
