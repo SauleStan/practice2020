@@ -20,4 +20,4 @@
 <img src="/img/admin_app.png" alt="admin-side view" width="350"/>
 <img src="/img/admin_app_item.png" alt="item edit view" width="350"/>
 <img src="/img/admin_app_users.png" alt="user edit view" width="350"/>
-<img src="/img/admin_user_mod.png" alt="user edit" width="350"/>
+<img src="/img/admin_user_mod.png" alt="user edit" width="600"/>
