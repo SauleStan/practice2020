@@ -1,6 +1,7 @@
 ### E-commerce system
 
-Simple shop app for buying fruits
+Simple shop app for buying fruits.
+Uses sqlite database.
 
 ### Structure
 
