@@ -1,5 +1,7 @@
 ### E-commerce system
 
+Simple shop app for buying fruits
+
 ### Structure
 
 1. Client app
